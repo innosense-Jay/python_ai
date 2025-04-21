@@ -4,7 +4,7 @@ import json
 # ✅ โหลดโมเดลที่ฝึกไว้
 # model = SentenceTransformer("intfloat/multilingual-e5-small")  # เปลี่ยน path ได้
 # model = SentenceTransformer("paraphrase-xlm-r-multilingual-v1")  # เปลี่ยน path ได้ 
-model = SentenceTransformer("paraphrase-xlm-r-multilingual-v1-6k3r")  # เปลี่ยน path ได้
+model = SentenceTransformer("jaeyong2/bge-m3-Thai")  # เปลี่ยน path ได้
 # model = SentenceTransformer("BAAI/bge-m3")  # เปลี่ยน path ได้
 # ✅ ข้อความเป้าหมาย (ของที่หาย)
 target_text = "iPhone 13 Pro Max สีเทาดำ มีรอยถลอกเล็กน้อยบริเวณฝาหลัง ใส่เคสยางสีแดงสด"
