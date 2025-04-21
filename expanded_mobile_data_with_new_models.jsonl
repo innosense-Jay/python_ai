@@ -1,0 +1,1000 @@
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "iQOO Neo 6", "text2": "Poco X4 Pro 5G", "label": 0}
+{"text1": "Poco X4 Pro 5G", "text2": "Poco M4 Pro 5G", "label": 1}
+{"text1": "Poco M4 Pro 5G", "text2": "Poco F3", "label": 0}
+{"text1": "Poco F3", "text2": "iPhone 14", "label": 1}
+{"text1": "iPhone 14", "text2": "iPhone 13", "label": 0}
+{"text1": "iPhone 13", "text2": "iPhone SE 2022", "label": 1}
+{"text1": "iPhone SE 2022", "text2": "Samsung Galaxy S23", "label": 0}
+{"text1": "Samsung Galaxy S23", "text2": "Samsung Galaxy Z Fold 4", "label": 1}
+{"text1": "Samsung Galaxy Z Fold 4", "text2": "Samsung Galaxy A53", "label": 0}
+{"text1": "Samsung Galaxy A53", "text2": "Huawei P50 Pro", "label": 1}
+{"text1": "Huawei P50 Pro", "text2": "Huawei Mate 50 Pro", "label": 0}
+{"text1": "Huawei Mate 50 Pro", "text2": "Huawei P40 Pro", "label": 1}
+{"text1": "Huawei P40 Pro", "text2": "Xiaomi Mi 13 Pro", "label": 0}
+{"text1": "Xiaomi Mi 13 Pro", "text2": "Xiaomi Redmi Note 11 Pro", "label": 1}
+{"text1": "Xiaomi Redmi Note 11 Pro", "text2": "Poco F4", "label": 0}
+{"text1": "Poco F4", "text2": "Vivo V27", "label": 1}
+{"text1": "Vivo V27", "text2": "Vivo X80 Pro", "label": 0}
+{"text1": "Vivo X80 Pro", "text2": "Vivo Y55 5G", "label": 1}
+{"text1": "Vivo Y55 5G", "text2": "Poco Reno 7 5G", "label": 0}
+{"text1": "Poco Reno 7 5G", "text2": "Poco Find X5 Pro", "label": 1}
+{"text1": "Poco Find X5 Pro", "text2": "Poco A76", "label": 0}
+{"text1": "Poco A76", "text2": "iQOO 11 5G", "label": 1}
+{"text1": "iQOO 11 5G", "text2": "iQOO Z6 5G", "label": 0}
+{"text1": "iQOO Z6 5G", "text2": "iQOO Neo 6", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
+{"text1": "Apple iPhone 15 Pro Max", "text2": "Apple iPhone 15 Pro Max", "label": 0}
+{"text1": "Samsung Galaxy S24 Ultra", "text2": "Samsung Galaxy S24 Ultra", "label": 1}
+{"text1": "Huawei P60 Pro", "text2": "Huawei P60 Pro", "label": 0}
+{"text1": "Xiaomi Mi 14 Pro", "text2": "Xiaomi Mi 14 Pro", "label": 1}
+{"text1": "Vivo X90 Pro", "text2": "Vivo X90 Pro", "label": 0}
+{"text1": "Oppo Find X6 Pro", "text2": "Oppo Find X6 Pro", "label": 1}
+{"text1": "iQOO 12 5G", "text2": "iQOO 12 5G", "label": 0}
+{"text1": "Poco F5", "text2": "Poco F5", "label": 1}
+{"text1": "Realme GT 3 Pro", "text2": "Realme GT 3 Pro", "label": 0}
+{"text1": "OnePlus OnePlus 12", "text2": "OnePlus OnePlus 12", "label": 1}
